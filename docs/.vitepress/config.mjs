@@ -16,6 +16,7 @@ export default defineConfig({
         {
           text: '文章列表',
           items: [
+            { text: '官方宣布：世界秩序已崩塌', link: '/blog/2026-02-15-world-order-broken' },
             { text: '大事正在发生', link: '/blog/big-things-happening' }
           ]
         }
