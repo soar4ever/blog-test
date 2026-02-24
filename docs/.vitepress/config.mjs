@@ -16,6 +16,7 @@ export default defineConfig({
         {
           text: '文章列表',
           items: [
+            { text: '真相过于明显：如果 AI 实际上并不会终结世界呢？', link: '/blog/2026-02-24-ai-abundance' },
             { text: '2028全球 intelligence 危机', link: '/blog/2026-02-23-2028-global-intelligence-crisis' },
             { text: '第一部分：基材时代 —— 沙子的帝国，重回玻璃', link: '/blog/2026-02-16-第一部分基材时代--沙子的帝国重回玻璃' },
             { text: '官方宣布：世界秩序已崩塌', link: '/blog/2026-02-15-world-order-broken' },
